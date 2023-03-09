@@ -1,2 +1,4 @@
-# Team_jellyfish_dataset
-This is the repository for anything related to teaam jellyfish assignment
+# Exploratory Data Analysis (EDA) of Students' Dropout and Academic Success.
+### By Team Jellyfish
+
+
