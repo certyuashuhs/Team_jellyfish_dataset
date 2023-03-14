@@ -30,8 +30,7 @@ The dataset for this project was downloaded from [Kaggle](https://www.kaggle.com
 
 ## 3. Deliverables <a class="anchor" id="resources"></a>
 +  [Jupyter Notebook](https://github.com/certyuashuhs/Team_jellyfish_dataset/blob/main/Team_jellyfish_notebook.ipynb)
-+  [Presentation Slide Deck-link](https://docs.google.com/presentation/d/10Nx4qUfHsRbUZkQu_3-2i90u8lgzHNezHSe8K2MO5Uk/edit#slide=id.p)
-+  [Presentation Slide Deck-PDF]()
++  [Presentation Slide Deck](https://github.com/certyuashuhs/Team_jellyfish_dataset/blob/main/Jellyfish_Presentation.pdf)
 +  [Whitepaper](https://github.com/certyuashuhs/Team_jellyfish_dataset/blob/main/Jellyfish_WhitePaper.pdf)
 
 
